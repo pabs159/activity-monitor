@@ -33,8 +33,5 @@ All the accounts a user is following are displayed here. If you wish to remove a
 
 ![](Images/Feed.png)
 
-### Looking Forward 
-
-For project 3, we will look to incorporate aspects of machine learning (K-Means, clusters, etc...) into this current project. Ruby provides a good library for implementing these algorithims. One possible implementation is correlating the students who got hired to those who are still looking for a job. 
 
 
