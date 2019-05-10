@@ -1,5 +1,5 @@
 # README
-## Project 2: GitHub Account Activity Monitor 
+## Project 3: GitHub Account Activity Monitor 
 
 ### Getting Started
 This program allows multiple users to track thier freinds, co-workers, or students GitHub activity through a simplistic and easy to use program interface. The program itself currently consist of 5 main pages. The first of being the login page, simply go 
